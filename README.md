@@ -42,3 +42,9 @@ componentWillUnmount()
 1.git branch -M <branch-name>
 2.git remote add <remote-name> <remote-url>
 3.git push <remote-name> 
+
+# Git Branches
+
+1.git clone <git-url>
+2.git branch -M <branch-name>
+git push <remote-name> <branch-name>
