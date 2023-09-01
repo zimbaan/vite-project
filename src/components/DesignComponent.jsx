@@ -6,7 +6,11 @@ export class DesignComponent extends Component {
     super(props)
 
     this.state ={
-      btnstyle  
+      btnstyle  :{
+        width:'100px',
+        height:'25px',
+        
+      }
     }
   }
   
